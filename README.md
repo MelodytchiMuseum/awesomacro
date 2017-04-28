@@ -1,3 +1,4 @@
+# Awesomacro
 Simple text macro made in early 2016. Programmed in C#. Utilizes Michael Noonan's InputSimulator library.
 
 The macro is small and is meant to run in the background. It was created for use in the video game Awesomenaut. Though designed for Awesomenauts specifically, it is not integrated with the game at all and could technically be used outside of the game.
