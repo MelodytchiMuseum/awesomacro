@@ -1,0 +1,7 @@
+c:\users\colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Debug\Macro.Form1.resources
+c:\users\colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Debug\Macro.Properties.Resources.resources
+c:\users\colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Debug\Macro.csproj.GenerateResource.Cache
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Debug\Macro.csprojResolveAssemblyReference.cache
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\bin\Debug\Awesomacro.exe
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Debug\Awesomacro.exe
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\bin\Debug\InputSimulator.dll

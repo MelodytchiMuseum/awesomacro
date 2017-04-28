@@ -1,0 +1,9 @@
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Release\Macro.Form1.resources
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Release\Macro.Properties.Resources.resources
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Release\Macro.csproj.GenerateResource.Cache
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\bin\Release\Awesomacro.exe
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\bin\Release\Awesomacro.pdb
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\bin\Release\InputSimulator.dll
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Release\Awesomacro.exe
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Release\Awesomacro.pdb
+C:\Users\Colton\documents\visual studio 2010\Projects\Macro\Macro\obj\x86\Release\Macro.csprojResolveAssemblyReference.cache
